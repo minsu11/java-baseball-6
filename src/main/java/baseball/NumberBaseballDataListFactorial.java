@@ -4,7 +4,7 @@ import camp.nextstep.edu.missionutils.Randoms;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BaseballNumberFactorial {
+public class NumberBaseballDataListFactorial {
     public List<Integer> createNumberList() {
         List<Integer> numberList = new ArrayList<>();
         while (numberList.size() < 3) {
